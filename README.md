@@ -38,13 +38,13 @@ IE6+、Chrome、Firefox、Safari、Opera
     
 ###下载连接###
 
-https://github.com/jquery/jquery-mousewheel
+https://github.com/hehongwei44/userAgent
 
 ###授权信息###
 
 授权类型：MIT
 
-授权类型信息：https://github.com/jquery/jquery-mousewheel/blob/master/LICENSE.txt
+授权类型信息：https://github.com/hehongwei44/userAgent/blob/master/LICENSE
 
 ###更改日志###
 
