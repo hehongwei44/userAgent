@@ -48,7 +48,7 @@ https://github.com/hehongwei44/userAgent
 
 ###更改日志###
 
-https://github.com/jquery/jquery-mousewheel/blob/master/ChangeLog.md
+https://github.com/hehongwei44/userAgent/blob/master/ChangeLog.md
 
 ###其他补充###
 
