@@ -52,7 +52,7 @@ https://github.com/hehongwei44/userAgent/blob/master/ChangeLog.md
 
 ###其他补充###
 
-一个很不错的的插件，值得推荐
+一个很不错的的插件，值得推荐.
 
 
 
